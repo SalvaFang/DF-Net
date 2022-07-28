@@ -1,1 +1,3 @@
 This project has provided the code and data of DF-Net, aiming to analyze the difference between the static and dynamic fusion optimization mechanisms.  Anyone could revise it or propose some suggestions to improve or complete our work. Thanks.
+
+More fusion results of tested methods on public datasests and course will be uploaded soon...
